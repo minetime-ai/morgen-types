@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "morgen-exports",
+  "version": "0.0.1",
+  "types": "morgen.d.ts"
+}

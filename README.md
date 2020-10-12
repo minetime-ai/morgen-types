@@ -1,1 +1,1 @@
-# morgen-types
+# Morgen Extension API - Types definition
